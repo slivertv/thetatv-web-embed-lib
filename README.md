@@ -1,5 +1,11 @@
 # THETA.tv Web Embed
 
+**Getting Setup**
+
+* Contact us sponsors@thetalabs.org to obtain a partner ID
+* Shopify: If you have a shopify account, and would like your viewers to trade their TFuel for discounts on your items, contact us to get setup with our Shopify App for Theta.tv
+
+
 
 ## Multi-Channel View
 This is the default embed view, and allows users to select a channel to view.
