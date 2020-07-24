@@ -6,7 +6,7 @@
 * Shopify: If you have a shopify account, and would like your viewers to trade their TFuel for discounts on your items, contact us to get setup with our Shopify App for Theta.tv
 
 ----
-# Iframe Embed Example
+## Iframe Embed Example
 Any of the views below can be manually embedded using an IFrame. Simply replace the SRC url with the view you'd like to use. The channel alias for a particular channel is the last portion of their channel URL on THETA.tv. For example "https://www/.theta.tv/nasa", 'nasa' would be the alias you can use in the URL's below. Contact us to obtain a partner ID.
 
 ```
@@ -15,7 +15,7 @@ Any of the views below can be manually embedded using an IFrame. Simply replace 
 
 
 
-## Multi-Channel View
+### Multi-Channel View
 This is the default embed view, and allows users to select a channel to view.
 
 ![Multi-Channel View](http://sliver-assets.imgix.net/website/images/embed_multichannel.png)
@@ -27,7 +27,7 @@ https://embed.theta.tv/e?partner={partner_id}
 
 ----
 
-## Single Channel View
+### Single Channel View
 This view displays only a single predetermined channel. The stream will automatically appear when the  channel goes online. 
 
 ![Channel View](http://sliver-assets.imgix.net/website/images/embed_channel.png)
@@ -39,7 +39,7 @@ https://embed.theta.tv/e/channel/{channel_alias}?partner={partner_id}
 
 
 ----
-## Stream View
+### Stream View
 Displays only the stream and stream information for a single channel. 
 
 ![Stream View](http://sliver-assets.imgix.net/website/images/embed_stream.png)
@@ -50,7 +50,7 @@ https://embed.theta.tv/e/stream/{channel_alias}?partner={partner_id}
 ```
 
 ----
-## Chat View
+### Chat View
 Displays only the chat for a single channel. Can be used in combination with the Stream view to create your own page layouts. 
 
 ![Chat View](http://sliver-assets.imgix.net/website/images/embed_chat.png)
