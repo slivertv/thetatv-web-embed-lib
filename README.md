@@ -5,7 +5,7 @@
 * Contact us sponsors@thetalabs.org to obtain a partner ID
 * Shopify: If you have a shopify account, and would like your viewers to trade their TFuel for discounts on your items, contact us to get setup with our Shopify App for Theta.tv
 * Custom Ads: Contact us to display product ads before the streams shown in your apps. 
-* Custom content: Contact us to customize the streams to be limited to your affiliate streams, team or org.
+* Custom content: Contact us to limit the streams displayed to your affiliated streamers, or your team.
 
 ----
 ## Iframe Embed Example
