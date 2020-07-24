@@ -5,6 +5,14 @@
 * Contact us sponsors@thetalabs.org to obtain a partner ID
 * Shopify: If you have a shopify account, and would like your viewers to trade their TFuel for discounts on your items, contact us to get setup with our Shopify App for Theta.tv
 
+----
+# Iframe Embed Example
+Any of the views below can be manually embedded using an IFrame. Simply replace the SRC url with the view you'd like to use. The channel alias for a particular channel is the last portion of their channel URL on THETA.tv. For example "https://www/.theta.tv/nasa", 'nasa' would be the alias you can use in the URL's below. Contact us to obtain a partner ID.
+
+```
+<iframe src=”https://embed.theta.tv/e/chat/{channel_alias}?partner={partner_id}” border=”0” width=”100%” height=”100%”/>
+```
+
 
 
 ## Multi-Channel View
@@ -53,13 +61,6 @@ https://embed.theta.tv/e/chat/{channel_alias}?partner={partner_id}
 ```
 
 
-----
-# Iframe Embed
-You can manually embed THETA.tv content using an IFrame.
-
-```
-<iframe src=”https://embed.theta.tv/e/chat/{channel_alias}?partner={partner_id}” border=”0” width=”100%” height=”100%”/>
-```
 
 
 ----
